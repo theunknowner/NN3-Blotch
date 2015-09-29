@@ -1,0 +1,56 @@
+Time Elapsed: 0h:0m:2s
+Mon Sep 28 12:23:40 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 148
+-----------------------
+Time Elapsed: 0h:0m:3s
+Mon Sep 28 14:12:49 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 180
+-----------------------
+Time Elapsed: 0h:0m:1s
+Mon Sep 28 14:24:41 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 95
+-----------------------
+Time Elapsed: 0h:0m:2s
+Mon Sep 28 14:51:32 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 153
+-----------------------
+Time Elapsed: 0h:0m:10s
+Mon Sep 28 14:56:15 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 342
+-----------------------
+Time Elapsed: 0h:0m:9s
+Mon Sep 28 15:10:10 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 319
+-----------------------
+Time Elapsed: 0h:0m:11s
+Mon Sep 28 15:13:45 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 241
+-----------------------
