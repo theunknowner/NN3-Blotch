@@ -150,3 +150,11 @@ Hidden Nodes: 40
 Output Size: 1
 Iterations: 130
 -----------------------
+Time Elapsed: 0h:0m:9s
+Thu Oct  1 10:19:57 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 40
+Output Size: 1
+Iterations: 188
+-----------------------
